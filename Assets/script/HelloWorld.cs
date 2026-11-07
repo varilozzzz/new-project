@@ -17,8 +17,8 @@ public class NewMonoBehaviourScript : MonoBehaviour
     void Update()
     {
         i++;
-        Debug.Log(i +" текущий счет")
+        Debug.Log(i + " текущий счет");
         x--;
-        Debug.Log(x + " текущий счет")
+        Debug.Log(x + " текущий счет");
     }
 }
